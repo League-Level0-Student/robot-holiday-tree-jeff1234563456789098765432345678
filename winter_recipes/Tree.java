@@ -48,13 +48,13 @@ public class Tree  {
     		
             // Turn the robot (use the turnAmount variable you made earlier)
     		
-            // Change the treeWidth to the current treeWidth multiplied by the scale (use the scale variable from the top of the program)
+            // Scale up the treeWidth (    treeWidth *= scale;   )
     		
             // Move the robot the width of a tree again
     		 
             // Turn the robot by the current turn amount, but this time turn to the LEFT (hint: negative turns go left)
     		
-            // Change the treeWidth to the current treeWidth multiplied by the scale again
+            // Scale up the treeWidth again (    treeWidth *= scale;   )
    
             // Decrease turnAmount by 1
  
